@@ -8,10 +8,10 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the dataset containing Hours Studied, Previous Score, Internship, and Placement.
+2. Split the data into features (X) and target (y) and divide it into training and testing sets.
+3.Apply feature scaling and train the Logistic Regression model.
+4.Predict the placement result and evaluate the model using accuracy and confusion matrix
 
 ## Program:
 ```
